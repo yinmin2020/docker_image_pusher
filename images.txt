@@ -1,1 +1,1 @@
-ubuntu/squid:latest
+budtmo/docker-android:emulator_9.0
