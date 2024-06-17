@@ -1,1 +1,1 @@
-zilliz/attu:v2.3.10
+centos:centos7.9.2009
