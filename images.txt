@@ -1,1 +1,1 @@
-dockcross/android-arm64:latest
+dockcross/android-arm:20240528-0dade71
