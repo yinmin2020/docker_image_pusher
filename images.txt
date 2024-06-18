@@ -1,1 +1,1 @@
-rcswain/docker-android-arm8-13.0:latest
+ubuntu:22.04
