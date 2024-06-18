@@ -1,1 +1,1 @@
-beevelop/java
+dockcross/android-arm64:latest
