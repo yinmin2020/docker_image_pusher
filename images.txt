@@ -1,1 +1,1 @@
-centos:centos7.9.2009
+rcswain/docker-android-arm8-13.0:latest
