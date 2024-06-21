@@ -1,3 +1,1 @@
-openebs/node-disk-manager:2.1.0
-openebs/provisioner-localpv:3.4.0
-openebs/node-disk-operator:2.1.0
+openebs/linux-utils:3.5.0
