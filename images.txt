@@ -1,1 +1,1 @@
-kuschzzp/openoffice:4.1.13
+nvidia/cuda:12.0.1-cudnn8-runtime-ubuntu18.04
