@@ -1,1 +1,1 @@
-openebs/linux-utils:3.5.0
+apache/doris:build-env-for-2.0
