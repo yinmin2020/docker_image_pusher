@@ -1,1 +1,1 @@
-homeassistant/home-assistant:latest@sha256:17d159928122e6f374bd39b0e75904522bc7d7c2a64e88b248948734e4c4d444
+homeassistant/home-assistant:latest@sha256:09694d52fba9be93e2b8addd0606e39eeca6221c6ae3bc2767cebef10aae47ef
