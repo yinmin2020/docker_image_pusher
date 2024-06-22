@@ -1,1 +1,1 @@
-grafana/grafana
+pinetwork/pi-node
