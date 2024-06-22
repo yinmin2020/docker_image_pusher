@@ -1,1 +1,1 @@
-pinetwork/pi-node
+pinetwork/pi-node-docker:latest
