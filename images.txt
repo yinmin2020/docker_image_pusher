@@ -1,1 +1,1 @@
-homeassistant/home-assistant:latest@sha256:09694d52fba9be93e2b8addd0606e39eeca6221c6ae3bc2767cebef10aae47ef
+grafana/grafana
