@@ -1,1 +1,1 @@
-pinetwork/pi-node-docker:latest
+kom4cr0/cuda11.7-pytorch1.13-mamba1.1.1:1.1.1 
