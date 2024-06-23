@@ -1,1 +1,5 @@
-kom4cr0/cuda11.7-pytorch1.13-mamba1.1.1:1.1.1 
+langgenius/dify-api:0.6.3
+nginx:latest
+langgenius/dify-sandbox:latest
+langgenius/dify-web:0.6.3
+langgenius/dify-api:0.6.3
