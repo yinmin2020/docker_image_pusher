@@ -1,1 +1,1 @@
-locustio/locust:2.21.0
+pinetwork/pi-node
