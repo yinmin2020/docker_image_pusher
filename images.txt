@@ -1,2 +1,1 @@
-docker.io/bitnami/redis-sentinel:7.0.11-debian-11-r10
-docker.io/bitnami/bitnami-shell:11-debian-11-r118
+locustio/locust:2.21.0
