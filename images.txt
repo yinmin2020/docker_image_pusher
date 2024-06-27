@@ -1,1 +1,1 @@
-pinetwork/pi-node
+vincentqin/image-matching-webui:latest
