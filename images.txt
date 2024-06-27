@@ -1,1 +1,1 @@
-vincentqin/image-matching-webui:latest
+vincentqin/image-matching-webui
