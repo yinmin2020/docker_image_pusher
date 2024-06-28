@@ -1,1 +1,1 @@
-vincentqin/image-matching-webui:latest
+nginx:latest
