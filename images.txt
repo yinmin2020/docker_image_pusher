@@ -1,2 +1,3 @@
-opensearchproject/opensearch-dashboards:latest
-postgres:15-alpine
+milvusdb/milvus:v2.4.5
+milvusdb/milvus:v2.4.3
+milvusdb/milvus:v2.4.4
