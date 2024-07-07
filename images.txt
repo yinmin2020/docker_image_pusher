@@ -1,1 +1,2 @@
-kasmweb/redroid:aarch64-1.15.0
+homeassistant/home-assistant:2023.12
+homeassistant/home-assistant:2024.5.5
