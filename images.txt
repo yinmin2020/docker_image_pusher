@@ -1,1 +1,1 @@
-milvusdb/milvus:v2.4.5-gpu
+adguard/adguardhome:edge@sha256:8ab40726a42c9e44d04f33113bb00c9bc9811e931a16c15ad08415ad3d38b375
