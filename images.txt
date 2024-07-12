@@ -1,1 +1,2 @@
-80x86/qbittorrent:4.2.1-amd64
+langgenius/dify-api:0.6.13
+langgenius/dify-web:0.6.13
