@@ -1,1 +1,1 @@
-fishros2/fishbot-tool:v1.0.0.20230108
+dynverse/ti_slingshot:latest
