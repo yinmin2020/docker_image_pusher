@@ -1,1 +1,2 @@
-dynverse/ti_slingshot:latest
+ollama/ollama
+ghcr.io/open-webui/open-webui
