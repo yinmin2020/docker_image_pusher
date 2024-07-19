@@ -1,1 +1,1 @@
-ghcr.io/helm/chartmuseum:v0.14.0
+liaobaikai/dm7-arm64
