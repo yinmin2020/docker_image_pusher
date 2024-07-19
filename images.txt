@@ -1,1 +1,1 @@
-ghcr.io/open-webui/pipelines:main
+ghcr.io/helm/chartmuseum:v0.14.0
