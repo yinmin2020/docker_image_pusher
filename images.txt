@@ -1,3 +1,1 @@
-langgenius/dify-api:0.6.15
-langgenius/dify-web:0.6.15
-myscale/myscaledb:1.6
+nacos/nacos-server:2.3.2
