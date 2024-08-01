@@ -1,1 +1,1 @@
-xuxueli/xxl-job-admin:2.2.0
+whyour/qinglong:2.17.5
