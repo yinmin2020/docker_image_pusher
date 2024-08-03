@@ -1,1 +1,2 @@
-shufflewzc/autoupdateck
+mysql/mysql-server
+eosphorosai/dbgpt:latest
