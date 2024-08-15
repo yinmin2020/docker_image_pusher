@@ -1,2 +1,1 @@
-golang:1.19-alpine
-alpine:latest
+golang:1.21.6
