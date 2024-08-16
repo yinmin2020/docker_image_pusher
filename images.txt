@@ -1,1 +1,1 @@
-golang:1.21.6
+ollama/ollama@sha256:2953f928ea207dc259de8a7f9355aedfb1c3866bd9bc38b86bc2cdc31d09c838
