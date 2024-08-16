@@ -1,1 +1,1 @@
-ollama/ollama:latest@sha256:2953f928ea207dc259de8a7f9355aedfb1c3866bd9bc38b86bc2cdc31d09c838
+ollama/ollama:0.3.6@sha256:29496491543aff99338a8c14d864ffedfd39ee28bae313ac5a2c9ce0f1b4d8b8
