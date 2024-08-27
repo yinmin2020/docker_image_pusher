@@ -1,2 +1,3 @@
-langgenius/dify-api:0.7.2
-langgenius/dify-web:0.7.2
+langgenius/dify-sandbox:0.2.6
+certbot/certbot
+tensorchord/pgvecto-rs:pg16-v0.3.0
