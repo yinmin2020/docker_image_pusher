@@ -1,1 +1,1 @@
-downloads.unstructured.io/unstructured-io/unstructured-api:latest
+ghcr.io/labring/fastgpt:v4.8.8@sha256:bf7d1a4223f66f945fa00ee449508c3c37cd7c1d1a5f3c6544cec1501ad9773c
