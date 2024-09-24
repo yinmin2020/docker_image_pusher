@@ -1,1 +1,2 @@
-milvusdb/milvus-config-tool:v0.1.2
+langgenius/dify-api:0.8.3
+langgenius/dify-web:0.8.3
