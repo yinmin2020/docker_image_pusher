@@ -1,1 +1,1 @@
-multiarch/qemu-user-static:latest
+xprobe/xinference:v0.15.2
