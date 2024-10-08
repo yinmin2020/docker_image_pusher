@@ -1,1 +1,1 @@
-xiaomimi8/docker-awvs-14.7.220401065
+kalilinux/kali-last-release:latest
