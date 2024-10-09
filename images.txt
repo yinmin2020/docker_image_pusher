@@ -1,2 +1,1 @@
 nginx:1.26.2
-nginx:1.26.2@sha256:0e1785cc00f5efa1c05cbffed44b88df36689a611dec123bd3c6ebebd2bfb169
