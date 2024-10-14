@@ -1,1 +1,1 @@
-busybox:latest
+bchatelard/debug:latest
