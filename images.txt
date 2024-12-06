@@ -1,1 +1,1 @@
-milvusdb/milvus:v2.4.17
+josstorer/rwkv-runner:amd64-1.8.8
