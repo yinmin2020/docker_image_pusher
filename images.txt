@@ -1,2 +1,1 @@
-langgenius/dify-web:0.13.1
-langgenius/dify-api:0.13.1
+milvusdb/milvus:v2.5.0-beta
