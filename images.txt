@@ -1,1 +1,1 @@
-redroid/redroid:14.0.0-latest@sha256:d9ef29d08c5e7ff6d4771a9894d4df47725d9a733dc251c47bc40782cc86359a
+milvusdb/milvus:v2.5.0
