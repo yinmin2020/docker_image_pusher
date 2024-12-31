@@ -1,1 +1,1 @@
-bitnami/etcd:3.5.17@sha256:d30664db1dadcabdac7e45f08f8ca3b34167f294ea51acb4c650c51663be2a18
+homeassistant/home-assistant:dev
