@@ -1,1 +1,1 @@
-ghcr.io/open-webui/open-webui:cuda
+milvusdb/milvus:v2.5.4
