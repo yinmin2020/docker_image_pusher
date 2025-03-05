@@ -1,1 +1,2 @@
-infiniflow/ragflow:v0.16.0-slim
+langgenius/dify-api:1.0.0
+langgenius/dify-web:1.0.0
