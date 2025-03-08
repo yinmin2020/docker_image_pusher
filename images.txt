@@ -1,1 +1,1 @@
-langgenius/dify-plugin-daemon:0.0.3-local
+ssst0n3/docker_archive:CVE-2019-16884
