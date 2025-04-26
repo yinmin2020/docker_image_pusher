@@ -1,2 +1,1 @@
-langgenius/dify-api:1.2.0
-langgenius/dify-web:1.2.0
+docker.n8n.io/n8nio/n8n
