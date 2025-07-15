@@ -1,7 +1,1 @@
-reflyai/refly-api:latest
-reflyai/refly-web:latest
-postgres:16-alpine
-minio/minio:RELEASE.2025-01-20T14-49-07Z
-redis/redis-stack:latest
-reflyai/qdrant:v1.13.1
-docker.io/searxng/searxng:latest
+reflyai/elasticsearch:7.10.2
