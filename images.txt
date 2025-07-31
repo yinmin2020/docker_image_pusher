@@ -1,1 +1,1 @@
-reflyai/elasticsearch:7.10.2
+milvusdb/milvus:v2.5.15
