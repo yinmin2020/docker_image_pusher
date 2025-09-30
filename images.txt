@@ -1,1 +1,1 @@
-centos:stream9
+python:3.11-slim
