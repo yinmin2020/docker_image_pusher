@@ -1,5 +1,1 @@
-envoyproxy/envoy:v1.31.7
-prom/prometheus:v2.53.0
-grafana/grafana:11.5.1
-rust:1.85
-golang:1.24
+centos:stream9
