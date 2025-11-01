@@ -1,1 +1,2 @@
-langflowai/langflow:1.6.4
+milvusdb/milvus:v2.6.3
+zilliz/attu:v2.6.1
