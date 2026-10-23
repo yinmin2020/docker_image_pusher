@@ -1,1 +1,6 @@
-bitnamicharts/minio:sha256-2c3ec4acca8297cc365333b308a45de57b720da776e6f42fea08adcf224eb03a
+milvusdb/milvus-operator:v1.3.12
+milvusdb/milvus:v2.6.25
+milvusdb/milvus:v3.0.3
+milvusdb/etcd:3.5.25-r1
+milvusdb/minio:RELEASE.2024-12-18T13-15-44Z
+bskim45/helm-kubectl-jq:3.1.0
