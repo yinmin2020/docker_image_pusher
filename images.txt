@@ -1,6 +1,3 @@
-milvusdb/milvus-operator:v1.3.12
-milvusdb/milvus:v2.6.25
-milvusdb/milvus:v3.0.3
-milvusdb/etcd:3.5.25-r1
-milvusdb/minio:RELEASE.2024-12-18T13-15-44Z
-bskim45/helm-kubectl-jq:3.1.0
+milvusdb/milvus:v2.5.16
+milvusdb/milvus:v2.6.10
+milvusdb/milvus:v2.6.20
